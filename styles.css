@@ -1,0 +1,44 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: sans-serif;
+
+
+}
+#grupo-botones { 
+    display: flex;
+    width: 100%;
+}
+#grupo-botones > button > img {
+    width: 100%;
+}
+.container {
+    
+    margin: 0 auto;
+    background-color: rgb(13, 89, 112);
+    width: 50vw;
+    height: 50vh;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.349);
+    border: 5px solid black;
+    
+    
+}
+
+.texto-empezar {
+    font-size: 26px;
+
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+
+}
+#resultado {
+   height: 400px;
+    background-color: blue;
+    width: 100vw;
+    height: 50vh;
+    
+   
+}
+
